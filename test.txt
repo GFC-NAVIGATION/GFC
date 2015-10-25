@@ -1,0 +1,1 @@
+These are foundation classes for Geomatcis and GNSS. This software is thought to be helpful for the development of Geodesy related softwares.
